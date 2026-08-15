@@ -50,7 +50,7 @@ document.addEventListener("DOMContentLoaded", function () {
             if (action === "shop") {
 
                 window.open(
-                    "https://rsaisahanaa-cell.github.io/vastra-vibe-facebook-ads/",
+                    "https://rsaisahanaa-cell.github.io/vastra-vibe-campaign/",
                     "_blank",
                     "noopener,noreferrer"
                 );
