@@ -1,1 +1,0 @@
-/* Vastra Vibe interactions are included in index.html. */
